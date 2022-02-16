@@ -1,8 +1,11 @@
 # OpenWrt-CI
 
-Customize x86_64 openwrt firmware autobuild just for fun.
+Customize x86_64 openwrt firmware auto build just for fun.
 
-References:
+## References:
+
 https://github.com/esirplayground/AutoBuild-OpenWrt
+
 https://github.com/KFERMercer/OpenWrt-CI
+
 https://github.com/P3TERX/Actions-OpenWrt
